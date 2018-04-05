@@ -1,1 +1,1 @@
-Read Me for git_test repo
+This is George's README for git_test.
